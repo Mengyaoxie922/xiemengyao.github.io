@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interest is system security, including system defense, memory security, et, al.
+I am an Assistant Professor at The Institute of Computing Technology of the Chinese Academy of Sciences. My research interest is system security, including system defense, and security of the operating system.
 
 A data-driven personal website
 ======
