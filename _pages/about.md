@@ -24,6 +24,10 @@ Publications
 <br>Chenggang Wu, **Mengyao Xie**, Zhe Wang*, Yinqian Zhang, Kangjie Lu, Xiaofeng Zhang, Yuanming Lai, Yan Kang, Min Yang, and Tao Li.
 <br>In IEEE Transactions on Dependable and Secure Computing (TDSC 2022).
 
+* SEIMI: Efficient and secure smap-enabled intra-process memory isolation
+<br>Zhe Wang, Chenggang Wu*, **Mengyao Xie**, Yinqian Zhang, Kangjie Lu, Xiaofeng Zhang, Yuanming Lai, Yan Kang, and Min Yang.
+<br>In 2020 IEEE Symposium on Security and Privacy (S&P 2020).
+
 * SysMon: Monitoring Memory Behaviors via OS Approach
 <br>**Mengyao Xie**, Lei Liu*, Hao Yang, Chenggang Wu, and Hongna Geng.
 <br>In International Symposium on Advanced Parallel Processing Technologies (APPT 2017).
@@ -36,8 +40,8 @@ Publications
 <br>Zhe Wang, Chenggang Wu*, Yinqian Zhang, Bowen Tang, Pen-Chung Yew, **Mengyao Xie**, Yuanming Lai, Yan Kang, Yueqiang Cheng, and Zhiping Shi.
 <br>In IEEE Transactions on Dependable and Secure Computing (TDSC 2021).
 
-* SEIMI: Efficient and secure smap-enabled intra-process memory isolation
-<br>Zhe Wang, Chenggang Wu*, **Mengyao Xie**, Yinqian Zhang, Kangjie Lu, Xiaofeng Zhang, Yuanming Lai, Yan Kang, and Min Yang.
+* SafeHidden: An Efficient and Secure Information Hiding Technique Using Rerandomization
+<br>Zhe Wang, Chenggang Wu*, Yinqian Zhang, Bowen Tang, Pen-Chung Yew, **Mengyao Xie**, Yuanming Lai, Yan Kang, Yueqiang Cheng and Zhiping Shi.
 <br>In Proceedings of the 28th USENIX Security Symposium, 2019.
 
 
