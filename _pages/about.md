@@ -14,11 +14,11 @@ Publications
 ======
 * PANIC: PAN-assisted Intra-process Memory Isolation on ARM
 <br>Jiali Xu, **Mengyao Xie (co-first)**, Chenggang wu, Yinqian Zhang, Qijing Li, Xuan Huang, Yuanming Lai, Yan Kang, Wei Wang, Qiang Wei and Zhe Wang*.
-<br>In Proceedings of the 30th ACM Conference on Computer and Communications Security. (CCS 2023)
+<br>In Proceedings of the 30th ACM Conference on Computer and Communications Security (CCS 2023).
 
 * CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation
 <br>**Mengyao Xie**, Chenggang Wu, Yinqian Zhang, Jiali Xu, Yuanming Lai, Yan Kang, Wei Wang and Zhe Wang*.
-<br>In Proceedings of the 29th ACM Conference on Computer and Communications Security. (CCS 2022, **Best Paper Honorable Mention**)
+<br>In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022). **Best Paper Honorable Mention**)
 
 * Dancing with Wolves: An Intra-process Isolation with Privileged Hardware
 <br>Chenggang Wu, **Mengyao Xie**, Zhe Wang*, Yinqian Zhang, Kangjie Lu, Xiaofeng Zhang, Yuanming Lai, Yan Kang, Min Yang, and Tao Li.
@@ -30,7 +30,7 @@ Publications
 
 * SpecWands: An Efficient Priority-based Scheduler Against Speculation Contention Attacks
 <br>Bowen Tang, Chenggang Wu, Pen-Chung Yew, Yinqian Zhang, **Mengyao Xie**, Yuanming Lai, Yan Kang, Wei Wang, Qiang Wei, and Zhe Wang.
-<br>In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2023)
+<br>In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2023).
 
 * Making Information Hiding Effective Again
 <br>Zhe Wang, Chenggang Wu*, Yinqian Zhang, Bowen Tang, Pen-Chung Yew, **Mengyao Xie**, Yuanming Lai, Yan Kang, Yueqiang Cheng, and Zhiping Shi.
