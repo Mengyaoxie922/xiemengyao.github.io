@@ -18,7 +18,7 @@ Publications
 
 * CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation
 <br>**Mengyao Xie**, Chenggang Wu, Yinqian Zhang, Jiali Xu, Yuanming Lai, Yan Kang, Wei Wang and Zhe Wang*.
-<br>In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022). **Best Paper Honorable Mention**)
+<br>In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022). **Best Paper Honorable Mention**
 
 * Dancing with Wolves: An Intra-process Isolation with Privileged Hardware
 <br>Chenggang Wu, **Mengyao Xie**, Zhe Wang*, Yinqian Zhang, Kangjie Lu, Xiaofeng Zhang, Yuanming Lai, Yan Kang, Min Yang, and Tao Li.
