@@ -44,7 +44,7 @@ Publications
 
 Awards
 ------
-* Outstanding Graduate Scholarship of Beijing, 2022
-* Outstanding Graduate Scholarship of University of Chinese Academy of Sciences, 2022
-* Sugon Scholarship for Ph.D. Candidates, 2019
-* Merit Student Award in University of Chinese Aacademy of Sciences, 2018
+* **Outstanding Graduate Scholarship** of Beijing, 2022
+* **Outstanding Graduate Scholarship** of University of Chinese Academy of Sciences, 2022
+* **Sugon Scholarship** for Ph.D. Candidates, 2019
+* **Merit Student Award** in University of Chinese Aacademy of Sciences, 2018
