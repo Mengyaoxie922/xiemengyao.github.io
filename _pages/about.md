@@ -69,6 +69,7 @@ Awards
 * **Sugon Scholarship** for Ph.D. Candidates, 2019
 * **Merit Student Award** in University of Chinese Aacademy of Sciences, 2018
 -->
+* **CCF体系结构博士学位论文激励计划提名（优博提名）**，2024
 * **北京市优秀毕业生**，2022
 * **中国科学院大学优秀毕业生**，2022
 * **国科大领雁奖金奖（排名第四）**，2021
